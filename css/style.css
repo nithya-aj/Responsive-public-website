@@ -1,0 +1,63 @@
+.navbar-brand img{
+    height: 34px;
+    width: 52px;
+}
+.drive{
+    color: #5f6368;
+}
+.google{
+    color: #6d7277;
+}
+.google:hover{
+    color: #202124;
+}
+/* .btn1{
+    border-color: #e8eaed !important; 
+} */
+.btn-something {
+    color: #1a73e8;
+    background-color: #fff;
+    border-color: #e8eaed;
+}
+.btn-something:hover, .btn-something:focus, .btn-something:active, .btn-something.active, .open>.dropdown-toggle.btn-something {
+    color: #1a73e8;
+    background-color: #e7fbff;
+    border-color: #16a4c4;
+}
+.img{
+    width: 98%;
+}
+.section-end{
+    width: 90%;
+    color: #202124;
+}
+.imglink:hover, .imglink1:hover{
+    background-color: #e7fbff;
+}
+.section3{
+    background-color: #f8f9fa;
+}
+.card{
+    background-color: #f8f9fa;
+}
+.text-progress{
+    font-size: 12px;
+}
+.card-row:hover {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.border{
+    border-color: #5f6368;
+}
+.text-google{
+    color: #681da8;
+}
+.text-google:hover{
+    color: #202124;
+}
+.items{
+    color: #6d7277;
+}
+.items:hover{
+    color: #202124;
+}
